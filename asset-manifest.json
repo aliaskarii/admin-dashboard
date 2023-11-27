@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/admin-dashboard/static/css/main.15cc4e85.css",
+    "main.js": "/admin-dashboard/static/js/main.157572bc.js",
+    "static/js/787.cda612ba.chunk.js": "/admin-dashboard/static/js/787.cda612ba.chunk.js",
+    "static/media/grunge-texture.png": "/admin-dashboard/static/media/grunge-texture.887d484c2bebe1dd3940.png",
+    "index.html": "/admin-dashboard/index.html",
+    "main.15cc4e85.css.map": "/admin-dashboard/static/css/main.15cc4e85.css.map",
+    "main.157572bc.js.map": "/admin-dashboard/static/js/main.157572bc.js.map",
+    "787.cda612ba.chunk.js.map": "/admin-dashboard/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15cc4e85.css",
+    "static/js/main.157572bc.js"
+  ]
+}
